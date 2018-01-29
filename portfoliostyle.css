@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Rubik:300');
+
+
+body {
+	
+	background: #C93657;
+
+}
+
+#nav a{
+   font-family: 'Rubik', sans-serif;
+   font-size: 18px;
+   text-decoration: none;
+   float: right;
+   margin-top: 25px;
+   margin-right: 30px;
+   color: #FFFFFF;
+
+}
+
+#main {
+   font-family: 'Bitter', serif;
+   padding: 220px;
+   margin-left: 10px;
+   font-size: 44px;
+   color: #FFFFFF;
+   text-decoration: none;
+   letter-spacing: 2px;
+
+}
+
+#footer {
+   font-family: 'Rubik', sans-serif;
+   font-size: 10px;
+   color: #FFFFFF;
+   text-decoration: none;
+   margin-left: 220px;
+
+}
